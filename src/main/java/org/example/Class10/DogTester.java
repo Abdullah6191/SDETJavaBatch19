@@ -1,6 +1,4 @@
-package org.example.Class9;
-
-import java.util.Scanner;
+package org.example.Class10;
 
 public class DogTester {
     public static void main(String[] args) {

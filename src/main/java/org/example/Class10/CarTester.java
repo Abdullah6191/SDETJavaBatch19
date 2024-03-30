@@ -1,4 +1,4 @@
-package org.example.Class9;
+package org.example.Class10;
 
 public class CarTester {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.example.class10;
+package org.example.class8;
 
 public class E9String {
     public static void main(String[] args) {

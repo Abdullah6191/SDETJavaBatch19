@@ -1,4 +1,4 @@
-package org.example.Class8;
+package org.example.Class9;
 
 public class E1Array {
     public static void main(String[] args) {
